@@ -4,7 +4,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.borderRed}>Hello world, my name is querty</Text>
-      <Text style={styles.borderRed}>Whats up my nigga</Text>
+      <Text style={styles.borderRed}>Whats up my boy</Text>
       <Button title='Tap Me'> </Button>
     </View>
   );
